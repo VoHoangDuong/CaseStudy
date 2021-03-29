@@ -118,9 +118,9 @@ nav .search {
     40% {
         background-image: url(jesko/jesko_4.jpg);
     }
-    60% {
-        background-image: url(jesko/jesko_5.jpg);
-    }
+    /* 60% {
+        background-image: url(jesko/jesko_3.jpg);
+    } */
     80% {
         background-image: url(jesko/jesko_6.jpg);
     }
